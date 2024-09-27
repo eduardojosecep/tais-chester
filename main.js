@@ -9,7 +9,7 @@ function areaQuadrado(lado){
     return lado**2;
 }
 console.log (areaQuadrado(6));
-let nome=parseint(prompt('qual sua nota do 1° trimestre?'));
+let nome=valoresMedia=(prompt("qual sua nota do 1° trimestre?"));
 let media=function (x,y,z){
     return (1+2+3)/3;
 }
