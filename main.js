@@ -13,3 +13,4 @@ let media=function (x,y,z){
     return (1+2+3)/3;
 }
 console.log(media(1+2+3/3));
+let nome=parseint(prompt('qual sua nota do 1° trimestre?'))
