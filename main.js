@@ -20,5 +20,5 @@ let estados=['Ac','Al','Ap',"am",'ba','ce','df','es','go','ma','mt','ms','mg','p
 let i=0;
 while(i<10){
 console.log(i);
-i=i+1;
+i++;
 }
