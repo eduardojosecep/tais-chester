@@ -24,7 +24,7 @@
 // i++;
 // }
 // 
-let idade=(prompt("qual sua idade"));
+let idade=(prompt("qual sua idade?"));
 if(idade>17){
 console.log('pode dirigir');
 }
