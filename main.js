@@ -16,7 +16,7 @@
 // console.log(media(1+2+3/3));
 
 // let estados=['Ac','Al','Ap',"am",'ba','ce','df','es','go','ma','mt','ms','mg','pa','pb','pr','pe','pi','rj','rn','rs','ro','rr','sc','sp','se','to'
-]
+
 // let i=0;
 // while(i<estados.length){
 // console.log(i);
